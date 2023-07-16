@@ -1,5 +1,5 @@
 echo "hello this is Jenkins Job"
 cd /home
-nano myprojectforjenkins
+cal
 ls
 echo "bye"
