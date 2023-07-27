@@ -3,3 +3,5 @@ cd /home
 cal
 echo "bye"
 echo "GitHub hooks"
+cd /home
+
